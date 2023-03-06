@@ -3,6 +3,7 @@
 패스트캠퍼스 프론트엔드 강의 클론코딩
 
 파이어워치 클론코딩
+![Parallax_Scrolling_-_Chrome_2023-03-06_15-56-28_AdobeExpress](https://user-images.githubusercontent.com/84490050/223040504-7e34886e-b38e-452c-ac36-f56166ea0e99.gif)
 
 
 ## 기간
